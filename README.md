@@ -145,6 +145,19 @@ This study affirms that combining Gaussian Splatting with photogrammetry enhance
 * Test with outdoor or real-time datasets.
 
 
+#  9. Results
+
+The results of this assignment confirm the advantages of hybrid reconstruction.
+
+The model generated from 25 images showed a visibly smoother mesh surface, improved structural accuracy, and a larger bounding volume when compared to the base model.
+
+Quantitatively, the face count and bounding volume in the augmented model were significantly greater, suggesting improved coverage and surface continuity.
+
+While the SSIM and PSNR values indicated that the rendered views still had room for improvement in terms of fidelity, they were good enough to guide photogrammetry in capturing previously occluded or undersampled regions.
+
+The Gaussian Splatting model contributed meaningfully by synthesizing novel views, which, even if imperfect, enriched the reconstruction pipeline by providing alternate perspectives.
+
+Together, the statistical comparisons and qualitative observations support the effectiveness of neural-assisted augmentation in photogrammetric workflows.
 
 
 
