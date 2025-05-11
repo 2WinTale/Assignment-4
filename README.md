@@ -1,4 +1,4 @@
-#  Exploring Hybrid 3D Reconstruction: A Comparative Study of Photogrammetry and Gaussian Splatting
+#  Photogrammetry and Gaussian Splatting Assignment Report
 
 # 1. Introduction
 
